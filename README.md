@@ -1,5 +1,5 @@
 # US-Census-Demographic-
-Using Tableau to show insights and to answer some questions in US Census Demographic data
+Using Tableau to show insights and to answer some questions in US Census Demographic data.
 
 you can check the visuals in pdfs above or on Tableau to interact with the visuals via below links:
 
